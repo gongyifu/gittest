@@ -57,7 +57,7 @@ int main(int argc, char const *argv[])
     printf("\n");
     printf("短视频\n");
     printf("约饭\n");
-    printf("商城 50%\n");
+    printf("商城100%\n");
 
     return 0;
 }
