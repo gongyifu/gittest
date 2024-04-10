@@ -32,8 +32,6 @@ void quickSort(int arr[], int low, int high)
 
         arr[i] = pivot;
 
-        quickSort(arr, low, i - 1);  // 对基准值左边的子数组进行快速排序
-        quickSort(arr, i + 1, high); // 对基准值右边的子数组进行快速排序
     }
 }
 
