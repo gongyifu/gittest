@@ -55,6 +55,7 @@ int main(int argc, char const *argv[])
         printf("%d ", arr[i]);
     }
     printf("\n");
+    printf("短视频\n");
 
     return 0;
 }
